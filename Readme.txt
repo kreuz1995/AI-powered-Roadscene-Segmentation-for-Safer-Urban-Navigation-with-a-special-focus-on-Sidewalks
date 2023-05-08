@@ -17,5 +17,5 @@ Steps:
    pip install git+https://github.com/qubvel/segmentation_models.pytorch
 3. Once libraries are also installed, execute the file "Train.py" by python Train.py.
 4. The training will start and save a model named "Model_weights.pth". To change this name, please refer to line no. 864 in the python file.
-5. Once training is done, to test the trained model, please refer to line no. 875 in the Train.py to understand how to test the model for metrics.
+5. Once training is done, to test the trained model, please refer to line no. 875 in the Train.py to understand how to test the model to acheive metrics.
 
