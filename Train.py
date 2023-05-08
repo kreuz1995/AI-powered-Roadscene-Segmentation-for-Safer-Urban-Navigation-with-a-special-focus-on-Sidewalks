@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 from torch.nn import DataParallel
 from sklearn.model_selection import train_test_split
 
-DATA_DIR = ''
+DATA_DIR = 'Dataset'
 x_train_dir = os.path.join(DATA_DIR, 'XTrain')
 y_train_dir = os.path.join(DATA_DIR, 'yTrain')
 
