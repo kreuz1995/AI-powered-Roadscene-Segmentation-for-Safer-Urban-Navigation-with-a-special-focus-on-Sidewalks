@@ -22,4 +22,8 @@ Please follow the below sequence to segment a video:
 
 Important note: Since, I have worked on  linux system, all the folder paths have forward slashes in the main code. If you are using a Windows operating system, please change them to backward slashes in the code.
 
+**Download the weight from: https://easyupload.io/tazxug
+and place in this folder.
+
+
 Also keep in mind, it is possible sometimes that the code runs halfway through and then crashes. So, some temporary folders will be created, but might not get deleted because the execution was not complete. In such a scenario, please make sure to delete all the folders other then "Input_Video" and "Output_Video", before running the code again.
