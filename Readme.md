@@ -1,3 +1,4 @@
+# A Project on Roadscene Segmentation with a special focus on Sidewalks (Class 16).
 This is the folder that contains the file for training a new model.
 
 There are 6 folders in this location. 
