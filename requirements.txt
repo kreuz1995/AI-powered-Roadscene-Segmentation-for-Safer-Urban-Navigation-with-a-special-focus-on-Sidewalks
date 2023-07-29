@@ -4,4 +4,4 @@ numpy
 albumentations[imgaug]
 pip
 setuptools
-git+https://github.com/qubvel/segmentation_models.pytorch
+segmentation_models_pytorch
