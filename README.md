@@ -1,6 +1,7 @@
 # A Project on Roadscene Segmentation with a special focus on Sidewalks (Class 16).
 This repository contains code to generate segmented images and segmented videos of roadscenes, with a special focus on sidewalks. The four models that we have used here are:
 1. DeeplabV3Plus. 2. UNet++. 3. PSPNet. 4. PAN
+All of them have been trained on resnet101 as encoder and imagenet as the pretrained weights. Then they were first trained on Cityscapes dataset (https://www.cityscapes-dataset.com/file-handling/?packageID=3) and then finetuned on a special subset of the Mapillary Vistas dataset, with Sidewalks on focus.
    
 Link to the pretrained-weights: https://drive.google.com/drive/folders/1U6un3tbRwSO1XFbyZwbbU92EoiD5QpC_?usp=sharing
 
