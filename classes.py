@@ -63,4 +63,4 @@ CLASSES = ['bird',
 'wheeled slow',
 'car mount',
 'ego vehicle',
-'unlabeled']
+'unlabeled data']
