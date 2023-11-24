@@ -21,7 +21,7 @@ Below are the details of all the files and specific instruction to execute them.
 3. To use a pretrained weights, please make required changes to the pretrain_weights comment in model.py
 4. Make required changes to the classes.py and class_colors.csv.
 5. Run train_pipeline.py
-6. The new trained weights will be saved in Pytorch_Weights folder.
+6. The new trained weights are saved in Pytorch_Weights folder.
 
 ## Inference: 
 1. change the name of your pretrained weight to the newly trained weight in the test.py script.
