@@ -14,4 +14,6 @@ We divide our report into the following sections:
 
 ## Description of the datasets
 
-   ### 1.
+  **1. Dataset 1**: The first dataset is based on the paper cited as "Na, G. S., & Chang, H. (2022). A public database of thermoelectric materials and system-identified material representation for data-driven discovery. npj Computational Materials, 8(1), 214.".
+                    It consists of 2 tables: ESTM and preds_sxgb. The ESTM dataset covers 880 unique thermoelectric materials and provides five experimentally measured thermoelectric properties: Seebeck coefficient, electrical conductivity, thermal conductivity, power factor, and figure of merit (ZT).
+                    
