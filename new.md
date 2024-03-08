@@ -5,6 +5,9 @@ The foundational database for our project was constructed utilizing ChemDataExtr
 
 We divide our report into the following sections:
 
-## 1. Description of the datasets.
-## 2. Most common attributes
+## 1. Description of the datasets:
+      This section gives us an overview of the six material science datasets and our changes in the data pipelines in brief.
+## 2. Most common attributes:
+      We explore the prevalent data types and analyse them.
 ## 3. Challenges faced
+      We discuss about the most errors encountered overall on all the datasets. 
