@@ -5,6 +5,6 @@ The foundational database for our project was constructed utilizing ChemDataExtr
 
 We divide our report into the following sections:
 
-1. Description of the datasets.
-2. Most common attributes
-3. Challenges faced
+## 1. Description of the datasets.
+## 2. Most common attributes
+## 3. Challenges faced
